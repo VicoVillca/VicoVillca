@@ -11,20 +11,6 @@
 
 </div>
 
-<!-- 🌟 BADGES ENCIMA DE LA ANIMACIÓN -->
-<div align="center" style="margin-top: -50px; position: relative; z-index: 2;">
-  
-<a href="https://vicovillca.github.io/portafolio/es">
-  <img src="https://img.shields.io/badge/👨‍💻_Portafolio-Visita_el_sitio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
-</a>
-<a href="mailto:vicovillca@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-vicovillca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://bo.linkedin.com/in/abraham-villca-0169301a1">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</div>
 
 <br><br>
 
@@ -46,7 +32,20 @@ const abraham = {
 };
 ```
 
+<!-- 🌟 BADGES ENCIMA DE LA ANIMACIÓN -->
+<div align="center" style="margin-top: -50px; position: relative; z-index: 2;">
+  
+<a href="https://vicovillca.github.io/portafolio/es">
+  <img src="https://img.shields.io/badge/👨‍💻_Portafolio-Visita_el_sitio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
+</a>
+<a href="mailto:vicovillca@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-vicovillca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://bo.linkedin.com/in/abraham-villca-0169301a1">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
+</div>
 
 
 ---
@@ -83,24 +82,3 @@ const abraham = {
 | **🤝 Colaboración Efectiva** | Comunicación clara en equipo | 👥 |
 
 ---
-
-## 📬 **¡Conectemos!**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-vicovillca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicovillca@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Abraham_Villca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bo.linkedin.com/in/abraham-villca-0169301a1)
-[![Portfolio](https://img.shields.io/badge/👨‍💻_Portfolio-Visitar_sitio-181717?style=for-the-badge&logo=github&logoColor=white)](https://vicovillca.github.io/portafolio/es)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-VicoVillca-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicoVillca)
-
-</div>
-
----
-
-<div align="center">
-
-### **⭐ "La excelencia es un hábito, no un acto." - Aristóteles**
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0563BB&height=100&section=footer&text=Gracias+por+visitar!&fontSize=30&fontColor=ffffff)
-
-</div>
