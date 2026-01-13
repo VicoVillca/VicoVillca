@@ -2,13 +2,16 @@
 ![](https://komarev.com/ghpvc/?username=VicoVillca&color=0563BB&style=flat-square&label=👁️+Visitas+al+perfil)
 ![GitHub User's stars](https://img.shields.io/github/stars/VicoVillca?color=0563BB&style=flat-square&label=⭐+Estrellas)
 </div>
+
 <!-- 🚀 BANNER ANIMADO GRANDE -->
 <div align="center">
 <a href="https://github.com/VicoVillca">
   <img src="astronauta.gif" alt="Astronauta Explorador"  height="450" />
 </a>
 </div>
+
 ## 🚀 **Sobre Mí**
+
 ```javascript
 const abraham = {
   title: "Ingeniero de Sistemas (UMSA)",
