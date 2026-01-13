@@ -5,7 +5,7 @@
 <!-- 🚀 BANNER ANIMADO GRANDE -->
 <div align="center">
 <a href="https://github.com/VicoVillca">
-  <img src="astronauta.gif" alt="Astronauta Explorador" width="600" height="450" />
+  <img src="astronauta.gif" alt="Astronauta Explorador"  height="450" />
 </a>
 </div>
 ## 🚀 **Sobre Mí**
