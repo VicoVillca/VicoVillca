@@ -37,11 +37,3 @@ const abraham = {
 
 </div>
 
-|-----------|-------------|-------|
-| **🧹 Código Limpio** | Legibilidad y mantenibilidad ante todo | ✅ |
-| **🏗️ Arquitecturas Sólidas** | Diseño pensado para escalar | 🚀 |
-| **🔄 CI/CD Automatizado** | Despliegues eficientes y seguros | ⚡ |
-| **📊 Calidad Garantizada** | Testing y buenas prácticas | 🛡️ |
-| **🤝 Colaboración Efectiva** | Comunicación clara en equipo | 👥 |
-
----
