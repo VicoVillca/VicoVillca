@@ -77,8 +77,7 @@ Ingeniero de Sistemas especializado en desarrollo de arquitecturas escalables ba
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VicoVillca&show_icons=true&theme=default&hide_border=true" alt="Abraham Villca's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicoVillca&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VicoVillca&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 💡 Filosofía de Desarrollo
