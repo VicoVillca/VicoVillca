@@ -74,6 +74,17 @@ Ingeniero de Sistemas especializado en desarrollo de arquitecturas escalables ba
 
 ---
 
+## Estadisticas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VicoVillca&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VicoVillca&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicoVillca&layout=compact&hide_border=true" />
+</p>
+
 ## 💡 Filosofía de Desarrollo
 
 > "La excelencia técnica no se trata solo de escribir código funcional, sino de crear arquitecturas que escalen, soluciones que perduren y sistemas que inspiren."
