@@ -36,58 +36,18 @@
 
 ## 🚀 **Sobre Mí**
 
+```javascript
+const abraham = {
+  title: "Ingeniero de Sistemas (UMSA)",
+  specialization: "Arquitecturas Escalables",
+  focus: ["Microservicios", "Microfrontends", "DevOps", "UI/UX"],
+  experience: "Liderazgo Técnico & Arquitectura",
+  philosophy: "Código limpio, soluciones escalables, despliegues eficientes"
+};
+```
 
-> *"Transformo problemas complejos en arquitecturas escalables y código elegante"*
 
-🎯 **Especialización:** Microservicios | Microfrontends | Arquitecturas Cloud  
-💡 **Filosofía:** Código limpio, soluciones escalables, despliegues eficientes  
-🔥 **Pasión:** Algoritmia, UI/UX optimizado, automatización CI/CD
 
----
-
-## 🏆 **Stack Tecnológico Visual**
-
-### **🏗️ ARQUITECTURA**
-<div align="center">
-  
-![Microservices](https://img.shields.io/badge/-Microservices-181717?style=for-the-badge&logo=microservices&logoColor=white)
-![Microfrontends](https://img.shields.io/badge/-Microfrontends-181717?style=for-the-badge&logo=webpack&logoColor=white)
-![API Gateway](https://img.shields.io/badge/-API_Gateway-181717?style=for-the-badge&logo=nginx&logoColor=white)
-![Eureka](https://img.shields.io/badge/-Eureka-181717?style=for-the-badge&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-</div>
-
-### **⚙️ BACKEND**
-<div align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
-
-### **🎨 FRONTEND**
-<div align="center">
-  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### **🔧 DEVOPS & HERRAMIENTAS**
-<div align="center">
-  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git Flow](https://img.shields.io/badge/-Git_Flow-181717?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-181717?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</div>
 
 ---
 
@@ -107,21 +67,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VicoVillca&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=333&icon_color=0563BB)
 
 </div>
-
----
-
-## 🎓 **Educación & Certificaciones**
-
-- **🎓 Licenciatura en Informática** | *UMSA (2022)*
-- **📚 Diplomado Fullstack Developer** | *Univ. Simón I. Patiño (En curso, 2026)*
-- **🏅 Scrum Fundamentals Certified (SFC)**
-- **⚡ JavaScript Algorithms** | *FreeCodeCamp*
-- **🔌 API Restful Spring Boot** | *UPEA*
-
-### **🌍 Idiomas**
-- 🇪🇸 Español: **Nativo**
-- 🏔️ Aymara: **Nativo**
-- 🇬🇧 Inglés: **A2 (Intermedio)**
 
 ---
 
