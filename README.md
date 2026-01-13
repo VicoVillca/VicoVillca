@@ -4,9 +4,16 @@
   </a>
 </p>
 
+<!-- 🚀 BANNER ANIMADO GRANDE -->
 <div align="center">
+  
+[![Astronauta Explorador](https://raw.githubusercontent.com/VicoVillca/VicoVillca/main/astronauta.gif)](https://github.com/VicoVillca)
 
-<!-- 🌟 BADGES ANIMADOS CON COLORES -->
+</div>
+
+<!-- 🌟 BADGES ENCIMA DE LA ANIMACIÓN -->
+<div align="center" style="margin-top: -50px; position: relative; z-index: 2;">
+  
 <a href="https://vicovillca.github.io/portafolio/es">
   <img src="https://img.shields.io/badge/👨‍💻_Portafolio-Visita_el_sitio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
 </a>
@@ -17,18 +24,15 @@
   <img src="https://img.shields.io/badge/💼_LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<br>
+</div>
+
+<br><br>
 
 <!-- 🎯 ESTADÍSTICAS VISUALES -->
 ![](https://komarev.com/ghpvc/?username=VicoVillca&color=0563BB&style=flat-square&label=👁️+Visitas+al+perfil)
 ![GitHub User's stars](https://img.shields.io/github/stars/VicoVillca?color=0563BB&style=flat-square&label=⭐+Estrellas)
 
 </div>
-
----
-## 🎬 Demo Animación
-
-![Animación en formato GIF](prueba.gif)
 
 ## 🚀 **Sobre Mí**
 
