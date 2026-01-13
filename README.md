@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0563BB&center=true&vCenter=true&width=600&height=80&lines=¡Hola!+👋+Soy+Abraham+Villca+Alarcón;Full+Stack+Developer+%26+Technical+Lead;Especialista+en+Arquitecturas+Escalables" alt="Typing SVG" />
   </a>
 </p>
-![Animación Lottie](prueba.gif)
+
 <div align="center">
 
 <!-- 🌟 BADGES ANIMADOS CON COLORES -->
@@ -26,8 +26,12 @@
 </div>
 
 ---
+## 🎬 Demo Animación
+
+![Animación en formato GIF](prueba.gif)
 
 ## 🚀 **Sobre Mí**
+
 
 > *"Transformo problemas complejos en arquitecturas escalables y código elegante"*
 
