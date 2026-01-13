@@ -37,29 +37,6 @@ const abraham = {
 
 </div>
 
-
----
-
-
----
-
-## 📈 **Métricas Visuales**
-
-<div align="center">
-
-### **🔄 Actividad Reciente**
-<!-- GitHub Activity Graph - MÁS CONFIANZA -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VicoVillca&theme=github-compact&hide_border=true&area=true&color=0563BB&line=0563BB&point=FFFFFF)
-
-</div>
-
----
-
-## 💡 **Filosofía de Desarrollo**
-
-> ### **"Código que escala, soluciones que perduran, sistemas que inspiran."**
-
-| Principio | Descripción | Icono |
 |-----------|-------------|-------|
 | **🧹 Código Limpio** | Legibilidad y mantenibilidad ante todo | ✅ |
 | **🏗️ Arquitecturas Sólidas** | Diseño pensado para escalar | 🚀 |
