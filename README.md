@@ -9,7 +9,6 @@
   <img src="astronauta.gif" alt="Astronauta Explorador"  height="450" />
 </a>
 </div>
-
 ## 🚀 **Sobre Mí**
 
 ```javascript
