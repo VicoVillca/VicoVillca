@@ -1,12 +1,163 @@
-<h1 align="center">Hi 👋, I'm Abraham Villca</h1>
-<h3 align="center">A passionate frontend and backend developer from La Paz - Bolivia</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abraham-villca-0169301a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham-villca-0169301a1" height="30" width="40" /></a>
-<a href="https://fb.com/sinvidasoci4l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sinvidasoci4l" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0563BB&center=true&vCenter=true&width=600&height=80&lines=¡Hola!+👋+Soy+Abraham+Villca+Alarcón;Full+Stack+Developer+%26+Technical+Lead;Especialista+en+Arquitecturas+Escalables" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-La_Paz,_Bolivia-0563BB?style=flat&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧-vicovillca@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" href="https://bo.linkedin.com/in/abraham-villca-0169301a1" />
+  <img src="https://img.shields.io/badge/👨‍💻-Portafolio-181717?style=flat&logo=github&logoColor=white" href="https://vicovillca.github.io/portafolio/es" />
+</p>
 
+---
+
+## 🚀 Sobre Mí
+
+const abraham = {
+  title: "Ingeniero de Sistemas (UMSA)",
+  specialization: "Arquitecturas Escalables",
+  focus: ["Microservicios", "Microfrontends", "DevOps", "UI/UX"],
+  experience: "Liderazgo Técnico & Arquitectura",
+  philosophy: "Código limpio, soluciones escalables, despliegues eficientes"
+};
+
+Ingeniero de Sistemas especializado en desarrollo de arquitecturas escalables bajo modelos de **Microservicios y Microfrontends**. Con experiencia comprobada liderando decisiones de arquitectura y equipos técnicos. Apasionado por la calidad de código, algoritmia y soluciones tecnológicas innovadoras.
+
+---
+
+## 🎯 Actualmente
+
+| Área | Tecnologías | Proyectos |
+|------|------------|-----------|
+| **💼 Arquitectura** | Microservicios, Module Federation, API Gateway, Eureka | SICOMEL (Sistema Comercial Eléctrico) |
+| **🔧 Desarrollo** | Spring Boot, Angular, React, Node.js, Docker | Plataformas empresariales escalables |
+| **📈 DevOps** | Docker, Git Flow, CI/CD, Automatización | Entornos optimizados para producción |
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### **🏗️ Arquitectura**
+![Microservices](https://img.shields.io/badge/-Microservices-181717?style=flat-square&logo=microservices)
+![Microfrontends](https://img.shields.io/badge/-Microfrontends-181717?style=flat-square&logo=webpack)
+![API Gateway](https://img.shields.io/badge/-API_Gateway-181717?style=flat-square&logo=nginx)
+![Eureka](https://img.shields.io/badge/-Eureka-181717?style=flat-square&logo=spring)
+![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka)
+
+### **⚙️ Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### **🎨 Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### **📱 Móvil & IoT**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Traccar](https://img.shields.io/badge/-Traccar_Server-181717?style=flat-square&logo=gps)
+
+### **🔧 DevOps & Herramientas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git Flow](https://img.shields.io/badge/-Git_Flow-181717?style=flat-square&logo=git)
+![Regex](https://img.shields.io/badge/-Regex_Avanzado-181717?style=flat-square&logo=regex)
+![JWT](https://img.shields.io/badge/-JWT-181717?style=flat-square&logo=jsonwebtokens)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicoVillca&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=00000000&title_color=0563BB&icon_color=0563BB&text_color=333" alt="Abraham Villca's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicoVillca&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=0563BB&text_color=333" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicoVillca&theme=algolia&hide_border=true&background=00000000&stroke=0563BB&ring=0563BB&fire=0563BB&currStreakLabel=0563BB" />
+</p>
+
+---
+
+## 🏆 Logros Destacados
+
+| Año | Reconocimiento | Proyecto |
+|-----|----------------|----------|
+| **2024** | Secretaría Municipal de Culturas (GAMLP) | App "TRAVEL LA PAZ" |
+| **2015-2017** | 2do Lugar Hackathon Smart City | "Cómo llego Bolivia" |
+| **2016** | 1er Lugar OEI | Reconocimiento de Voz (PocketSphinx) |
+| **2014-2016** | Ministerio de Educación | Tutor Olimpiada Científica |
+
+---
+
+## 📂 Proyectos Destacados
+
+### **🔌 SICOMEL** - *Sistema Comercial Eléctrico*
+> Arquitectura de Microservicios y Microfrontends para ENDE Corporación
+- **Stack:** Spring Boot, Angular, Module Federation, Docker, Eureka
+- **Rol:** Líder de Arquitectura y Desarrollo Full Stack
+
+### **🏙️ iGob 24/7 Plus** - *Plataforma Municipal*
+> Centralización de trámites y servicios municipales
+- **Stack:** Next.js, TypeScript, Flutter, Docker
+- **Rol:** Arquitecto y Desarrollador Full Stack
+
+### **🚌 Cómo Llego Bolivia** - *Facebook Internet.org*
+> Optimización de movilidad urbana
+- **Stack:** React, Node.js, Geolocalización
+- **Rol:** Desarrollador del Módulo Principal
+
+### **🏆 ObiAdmin** - *Olimpiada Boliviana de Informática*
+> Plataforma integral de gestión
+- **Stack:** React, Node.js, Docker
+- **Rol:** Arquitecto y Desarrollador Principal
+
+---
+
+## 🎓 Educación & Certificaciones
+
+- **Licenciatura en Informática** - *UMSA (2022)*
+- **Diplomado Fullstack Developer** - *Univ. Simón I. Patiño (En curso, 2026)*
+- **Scrum Fundamentals Certified (SFC)**
+- **JavaScript Algorithms - FreeCodeCamp**
+- **API Restful Spring Boot - UPEA**
+
+### **🌍 Idiomas**
+- **Español:** Nativo
+- **Aymara:** Nativo  
+- **Inglés:** A2 (Intermedio)
+
+---
+
+## 💡 Filosofía de Desarrollo
+
+> "La excelencia técnica no se trata solo de escribir código funcional, sino de crear arquitecturas que escalen, soluciones que perduren y sistemas que inspiren."
+
+- 🧹 **Código Limpio** - Legibilidad y mantenibilidad ante todo
+- 🏗️ **Arquitecturas Sólidas** - Diseño pensado para escalar
+- 🔄 **CI/CD** - Automatización y despliegues eficientes
+- 📊 **Calidad** - Testing, revisión de código y buenas prácticas
+- 🤝 **Colaboración** - Comunicación clara y trabajo en equipo
+
+---
+
+## 📫 ¡Conectemos!
+
+<p align="center">
+  <a href="mailto:vicovillca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://bo.linkedin.com/in/abraham-villca-0169301a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/VicoVillca">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
