@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Sobre Mí
-
+```javascript
 const abraham = {
   title: "Ingeniero de Sistemas (UMSA)",
   specialization: "Arquitecturas Escalables",
@@ -22,6 +22,7 @@ const abraham = {
   experience: "Liderazgo Técnico & Arquitectura",
   philosophy: "Código limpio, soluciones escalables, despliegues eficientes"
 };
+```
 
 Ingeniero de Sistemas especializado en desarrollo de arquitecturas escalables bajo modelos de **Microservicios y Microfrontends**. Con experiencia comprobada liderando decisiones de arquitectura y equipos técnicos. Apasionado por la calidad de código, algoritmia y soluciones tecnológicas innovadoras.
 
