@@ -83,7 +83,71 @@
 
 ---
 
-## 📊 **Experiencia Destacada**
 
-### **🔌 ENDE Corporación** | *Full Stack Developer* | *Mar 2024 - Presente*
-> **SICOMEL** - Sistema Comercial Eléctrico
+---
+
+## 📈 **Métricas Visuales**
+
+<div align="center">
+
+### **🔄 Actividad Reciente**
+<!-- GitHub Activity Graph - MÁS CONFIANZA -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VicoVillca&theme=github-compact&hide_border=true&area=true&color=0563BB&line=0563BB&point=FFFFFF)
+
+### **📊 Tendencias**
+<!-- Estadísticas simples y confiables -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VicoVillca&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=333&icon_color=0563BB)
+
+</div>
+
+---
+
+## 🎓 **Educación & Certificaciones**
+
+- **🎓 Licenciatura en Informática** | *UMSA (2022)*
+- **📚 Diplomado Fullstack Developer** | *Univ. Simón I. Patiño (En curso, 2026)*
+- **🏅 Scrum Fundamentals Certified (SFC)**
+- **⚡ JavaScript Algorithms** | *FreeCodeCamp*
+- **🔌 API Restful Spring Boot** | *UPEA*
+
+### **🌍 Idiomas**
+- 🇪🇸 Español: **Nativo**
+- 🏔️ Aymara: **Nativo**
+- 🇬🇧 Inglés: **A2 (Intermedio)**
+
+---
+
+## 💡 **Filosofía de Desarrollo**
+
+> ### **"Código que escala, soluciones que perduran, sistemas que inspiran."**
+
+| Principio | Descripción | Icono |
+|-----------|-------------|-------|
+| **🧹 Código Limpio** | Legibilidad y mantenibilidad ante todo | ✅ |
+| **🏗️ Arquitecturas Sólidas** | Diseño pensado para escalar | 🚀 |
+| **🔄 CI/CD Automatizado** | Despliegues eficientes y seguros | ⚡ |
+| **📊 Calidad Garantizada** | Testing y buenas prácticas | 🛡️ |
+| **🤝 Colaboración Efectiva** | Comunicación clara en equipo | 👥 |
+
+---
+
+## 📬 **¡Conectemos!**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-vicovillca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicovillca@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Abraham_Villca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bo.linkedin.com/in/abraham-villca-0169301a1)
+[![Portfolio](https://img.shields.io/badge/👨‍💻_Portfolio-Visitar_sitio-181717?style=for-the-badge&logo=github&logoColor=white)](https://vicovillca.github.io/portafolio/es)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-VicoVillca-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicoVillca)
+
+</div>
+
+---
+
+<div align="center">
+
+### **⭐ "La excelencia es un hábito, no un acto." - Aristóteles**
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0563BB&height=100&section=footer&text=Gracias+por+visitar!&fontSize=30&fontColor=ffffff)
+
+</div>
