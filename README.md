@@ -1,8 +1,10 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0563BB&center=true&vCenter=true&width=600&height=80&lines=¡Hola!+👋+Soy+Abraham+Villca+Alarcón;Full+Stack+Developer+%26+Technical+Lead;Especialista+en+Arquitecturas+Escalables" alt="Typing SVG" />
-  </a>
-</p>
+<br>
+
+<!-- 🎯 ESTADÍSTICAS VISUALES -->
+![](https://komarev.com/ghpvc/?username=VicoVillca&color=0563BB&style=flat-square&label=👁️+Visitas+al+perfil)
+![GitHub User's stars](https://img.shields.io/github/stars/VicoVillca?color=0563BB&style=flat-square&label=⭐+Estrellas)
+
+</div>
 
 <!-- 🚀 BANNER ANIMADO GRANDE -->
 <div align="center">
@@ -12,13 +14,7 @@
 </div>
 
 
-<br><br>
-
-<!-- 🎯 ESTADÍSTICAS VISUALES -->
-![](https://komarev.com/ghpvc/?username=VicoVillca&color=0563BB&style=flat-square&label=👁️+Visitas+al+perfil)
-![GitHub User's stars](https://img.shields.io/github/stars/VicoVillca?color=0563BB&style=flat-square&label=⭐+Estrellas)
-
-</div>
+<br>
 
 ## 🚀 **Sobre Mí**
 
