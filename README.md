@@ -37,3 +37,4 @@ const abraham = {
 
 </div>
 
+Perfil oficial de Abraham Villca Alarcón, Ingeniero de Sistemas graduado de la UMSA
